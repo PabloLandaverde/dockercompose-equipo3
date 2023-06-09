@@ -6,13 +6,13 @@ paso 1 - clonar el github para ejecutar el docker-compose.yml
 
 git clone https://github.com/PabloLandaverde/dockercompose-equipo3.git
 
-paso 2- entar a la carpeta del directorio clonado
+paso 2- entrar a la carpeta del directorio clonado
 
-cd dockercompose-equipo3
+$cd dockercompose-equipo3
 
 paso 3 - correr el docker compose con el siguiente comando:
 
- docker compose up
+ $docker compose up
 
 paso 4 - se presentan erroreshay,  que detener los contenedores y configurar con superusuario el grupo y usuario 
 

@@ -86,20 +86,20 @@ paso 9 - configurar el administrador
 
 
 
-paso 10 - agregar el idioma español 
+ 
 
 
-paso 11 - crear curso 
+paso 10 - crear curso 
 
 
 
-paso 12 - crear usuarios 
+paso 11 - crear usuarios 
 
 
-paso 13 - listar los usuarios 
+paso 12 - listar los usuarios 
 
 
-paso 14 - agregar usuarios al curso y asignarles su rol
+paso 13 - agregar usuarios al curso y asignarles su rol
 
 
 

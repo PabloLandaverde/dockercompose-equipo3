@@ -68,7 +68,6 @@ $localhost:90
 
 
 
-
 paso 8 - ingresar al sistema de moodle con usuario y contraseña por defecto
 
 -usuario: user
@@ -80,6 +79,36 @@ paso 8 - ingresar al sistema de moodle con usuario y contraseña por defecto
 
 
 ![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/20dd959e-6ec4-4c1b-9644-23ec923af3d2)
+
+
+paso 9 - agregar el idioma español 
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/4a77877c-03c0-4f4c-8dc3-172864a4f7ff)
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/5cbb0848-9586-4505-bbed-cc07c76cff0f)
+
+
+
+
+paso 10 - configurar el administrador 
+
+
+
+paso 11 - agregar el idioma español 
+
+
+paso 12 - crear curso 
+
+
+
+paso 13 - crear usuarios 
+
+
+paso 14 - listar los usuarios 
+
+
+paso 15 - agregar usuarios al curso y asignarles su rol
 
 
 

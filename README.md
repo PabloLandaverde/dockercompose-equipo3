@@ -63,7 +63,8 @@ paso 7 - abrir el navegador e ingresar al servicio que esta corriendo de moodle
 
 $localhost:90
 
-![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/10fd8cf8-f1a5-4cbf-a3fa-a1c0b2e17e15)
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/9251bb6b-db3d-492d-9804-11a7709b6ab7)
+
 
 
 

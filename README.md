@@ -42,7 +42,8 @@ $ sudo chown 1001 mariadb_data/
 se utiliza para cambiar el propietario de un directorio llamado "mariadb_data" al usuario con el identificador numérico 1001.
 
 
-![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/f46c4297-fdc1-4ee7-9661-82265cd2d539)
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/e310b85b-74f9-4708-b2a1-914cd756aa9e)
+
 
 
 paso 5 - una vez hecha las configuraciones se vuelve a correr el servicio de moodle con el comando:

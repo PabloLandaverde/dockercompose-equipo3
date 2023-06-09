@@ -94,11 +94,17 @@ paso 9 - configurar el administrador
 
 
 
- 
-
-
 paso 10 - crear curso 
 
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/4103470c-36aa-4f67-b59a-d1de13e0985b)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/9e67bc8a-d23c-46ee-80d5-e127a5dfcb02)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/89cfe24f-1f79-4109-8bd3-10c448db3618)
 
 
 paso 11 - crear usuarios 

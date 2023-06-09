@@ -4,7 +4,9 @@ correr el servicio de moodle, configurarlo, crear cursos y usuarios con sus dive
 
 paso 1 - clonar el github para ejecutar el docker-compose.yml
 
-git clone https://github.com/PabloLandaverde/dockercompose-equipo3.git
+git clone https://github.com/PabloLandaverde/dockercompose-equipo3
+
+
 
 paso 2- entrar a la carpeta del directorio clonado
 

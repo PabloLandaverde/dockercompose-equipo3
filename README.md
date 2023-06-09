@@ -85,6 +85,14 @@ paso 8 - ingresar al sistema de moodle con usuario y contraseña por defecto
 paso 9 - configurar el administrador 
 
 
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/82248fc8-5ebe-4eed-8b54-f43d2c2e49d6)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/f00f15f6-704f-4e2f-af35-8088ab07cec7)
+
+
+
 
  
 

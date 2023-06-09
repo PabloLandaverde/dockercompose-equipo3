@@ -109,11 +109,42 @@ paso 10 - crear curso
 
 paso 11 - crear usuarios 
 
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/631d7fb5-a77d-4b2e-bffd-8dce84741020)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/c605c946-dba2-41ad-9f62-a5416f8d3bb9)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/db0c449e-da41-473b-9ed2-cf39f736c7d0)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/fd68b6d9-c974-496c-b200-d5c8aa1dc314)
+
+
 
 paso 12 - listar los usuarios 
 
 
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/2423695f-7678-41f8-995e-a92fd5461199)
+
+
 paso 13 - agregar usuarios al curso y asignarles su rol
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/8dae60c9-bc76-418f-a5b3-cff57246ddb8)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/ffa07317-682f-412a-94df-bf230066243e)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/a572c756-90ca-4099-b572-68b1702b73bc)
+
+
+
 
 
 

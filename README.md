@@ -68,7 +68,6 @@ $localhost:90
 
 
 
-
 paso 8 - ingresar al sistema de moodle con usuario y contraseña por defecto
 
 -usuario: user
@@ -80,6 +79,72 @@ paso 8 - ingresar al sistema de moodle con usuario y contraseña por defecto
 
 
 ![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/20dd959e-6ec4-4c1b-9644-23ec923af3d2)
+
+
+
+paso 9 - configurar el administrador 
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/82248fc8-5ebe-4eed-8b54-f43d2c2e49d6)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/f00f15f6-704f-4e2f-af35-8088ab07cec7)
+
+
+
+
+paso 10 - crear curso 
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/4103470c-36aa-4f67-b59a-d1de13e0985b)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/9e67bc8a-d23c-46ee-80d5-e127a5dfcb02)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/89cfe24f-1f79-4109-8bd3-10c448db3618)
+
+
+paso 11 - crear usuarios 
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/631d7fb5-a77d-4b2e-bffd-8dce84741020)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/c605c946-dba2-41ad-9f62-a5416f8d3bb9)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/db0c449e-da41-473b-9ed2-cf39f736c7d0)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/fd68b6d9-c974-496c-b200-d5c8aa1dc314)
+
+
+
+paso 12 - listar los usuarios 
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/2423695f-7678-41f8-995e-a92fd5461199)
+
+
+paso 13 - agregar usuarios al curso y asignarles su rol
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/8dae60c9-bc76-418f-a5b3-cff57246ddb8)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/ffa07317-682f-412a-94df-bf230066243e)
+
+
+
+![image](https://github.com/PabloLandaverde/dockercompose-equipo3/assets/115749532/a572c756-90ca-4099-b572-68b1702b73bc)
+
+
+
 
 
 
